@@ -1,0 +1,13 @@
+:root {
+  --custom-color: #900;
+}
+
+button {
+  width: 45vw;
+  height: 2em;
+  background-color: var(--custom-color);
+}
+
+#color-changer {
+  background-color: transparent
+}
